@@ -1,0 +1,3 @@
+javac -d ../bin cliente/*.java
+javac -d ../bin servidor/*.java
+javac -d ../bin sop_rmi/*.java
